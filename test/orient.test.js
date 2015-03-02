@@ -1,4 +1,4 @@
-/* Copyright (c) 2010-2015 Dan Jenkins, MIT License */
+/* Copyright (c) 2015 Dan Jenkins, MIT License */
 
 "use strict";
 
@@ -15,8 +15,6 @@ si.use('../lib/orient-store.js', {
   port: 2424,
   options: {}
 });
-
-//REQUIRES THE FOO, MOON_BAR AND PRODUCT CLASSES TO ALREADY EXIST, NEED TO AUTOMATE THAT
 
 si.__testcount = 0;
 
