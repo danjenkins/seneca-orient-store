@@ -1,6 +1,6 @@
 {
   "name": "seneca-orient-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Seneca data store plugin for OrientDB",
   "main": "index.js",
   "scripts": {
