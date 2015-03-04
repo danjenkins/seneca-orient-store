@@ -51,3 +51,4 @@ This project was sponsored by [nearForm](http://nearform.com).
 ## License
 
 This project is published under the [MIT license](LICENSE.md)
+
